@@ -5,7 +5,7 @@ from sqlalchemy import create_engine, text
 DB_URL = "sqlite:///data/movies.db"
 
 # Create the engine
-engine = create_engine(DB_URL, echo=True)
+engine = create_engine(DB_URL)
 
 # Create the movies table if it does not exist
 with engine.connect() as connection:
