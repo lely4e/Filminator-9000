@@ -68,7 +68,6 @@ Menu:
 * The site can be opened in any browser.
 
 🔴 If the movie is not found:
-* An HTML page is still generated, showing a message like: 
 ```
 Movie doesnt exist in API.
 ```

@@ -2,11 +2,11 @@ import sys
 import statistics
 import random
 from termcolor import colored
-from data.color import COLOR_PROMPT, COLOR_SUCCESS, COLOR_WARNING, COLOR_MENU, COLOR_ERROR, COLOR_INPUT
-import data.movie_storage as storage
-import data.movie_fetcher as fetcher
-from data.movies_web_generator import new_html_data, FILE_NAME
-from data.flag import fetch_flag
+from utils.color import COLOR_PROMPT, COLOR_SUCCESS, COLOR_WARNING, COLOR_MENU, COLOR_ERROR, COLOR_INPUT
+import movie_storage.movie_storage as storage
+import movie_storage.movie_fetcher as fetcher
+from utils.movies_web_generator import new_html_data, FILE_NAME
+from utils.flag import fetch_flag
 
 
 def header_displayed_on_the_screen():
