@@ -1,5 +1,4 @@
 from app.movies import header_displayed_on_the_screen, displayed_on_the_screen, choose_the_option
-#from data import movies_web_generator
 
 
 def main():
