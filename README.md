@@ -1,12 +1,12 @@
 ![This is an alt text.](Filminator_9000.png "Filminator 9000")
 
 # 🎬 FILMINATOR 9000 – Movie Management and Website Generator
-FilmFinder 9000 is a Python-based command-line tool that allows users to manage their own movie database with a futuristic twist. It connects to an external movie API (OMDb) to fetch movie data, which is then stored in a local SQL database for easy access, updates, and offline use.
+Filminator 9000 is a Python-based command-line tool that allows users to manage their own movie database with a futuristic twist. It connects to an external movie API (OMDb) to fetch movie data, which is then stored in a local SQL database for easy access, updates, and offline use.
 Through an interactive menu, users can add, delete, search, and sort movies; view statistics; and even generate a full HTML website that displays the movies as posters also fetched from API. Whether you're a film buff or a coding newbie, this tool puts the power of a blockbuster database at your fingertips.
 
 
 # 💡 What Problem Does It Solve?
-Manually managing a movie collection can be tedious, especially when dealing with inconsistent data and formats. FilmFinder 9000 solves this by:
+Manually managing a movie collection can be tedious, especially when dealing with inconsistent data and formats. Filminator 9000 solves this by:
 * Automatically fetching and storing movie data from a public API by title
 * Letting users interact with their movie collection through a structured menu
 * Generating a full website that displays movie information in card format
@@ -29,8 +29,8 @@ Manually managing a movie collection can be tedious, especially when dealing wit
 *📦 Installation*
 * Clone the repository:
 ```
-git clone https://github.com/your-username/Filminator9000.git
-cd Filminator9000
+git clone https://github.com/your-username/Filminator-9000.git
+cd Filminator-9000
 ```
 * Install dependencies:
 ```
