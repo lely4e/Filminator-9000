@@ -1,0 +1,9 @@
+requests
+os
+dotenv
+sqlalchemy
+sys
+statistics
+random
+termcolor 
+pathlib
